@@ -1,0 +1,28 @@
+.background{
+    width: 48%;
+    margin-left: -51%;
+    margin-top: 29%;
+}
+.title1{
+    color: white;
+    font-size: 56px;
+    margin-left: -53%;
+    margin-top: -200px;
+}
+.desc1{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -52%;
+    margin-top: -20px;
+    color: white;
+}
+.click1{
+    margin-left: -54%;
+    margin-top: 10px;
+    color: #0066CC;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+:hover .click1{
+    text-decoration: underline;
+}
